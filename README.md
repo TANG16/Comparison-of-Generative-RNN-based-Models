@@ -10,9 +10,7 @@ In the comparison:
 - For the target value, I sample piece of music, taken from [here](https://www.youtube.com/watch?v=KLL3DKZAzig), at 44.1 Hz for 7 ms.
 
 # Results
-![Deneme](Demo/ml.gif)
-
-If you cannot open the video, click [here](https://www.youtube.com/watch?v=R44aZCndydg&feature=youtu.be).
+For the demo, click [here](https://www.youtube.com/watch?v=R44aZCndydg&feature=youtu.be).
 
 # References
 - J. Koutnnik, K. Greff, F. J. Gomez, and J. Schmidhuber, “A clockwork RNN,” CoRR, vol. abs/1402.3511, 2014.
