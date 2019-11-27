@@ -7,11 +7,12 @@ In the comparison:
 - All the networks include approximately 8000 parameters.
 - Initial values for all the weights were drawn from a Gaussian distribution with zero mean and standard deviation of 0.1.
 - All networks were trained using Stochastic Gradient Descent (SGD) with Nesterov-style momentum
+- For the target value, I sample piece of music, taken from [here](https://www.youtube.com/watch?v=KLL3DKZAzig), at 44.1 Hz for 7 ms.
 
 # Results
 ![Deneme](Demo/ml.gif)
 
-If you cannot open the videos, click [here](https://www.youtube.com/watch?v=R44aZCndydg&feature=youtu.be).
+If you cannot open the video, click [here](https://www.youtube.com/watch?v=R44aZCndydg&feature=youtu.be).
 
 # References
 - J. Koutnnik, K. Greff, F. J. Gomez, and J. Schmidhuber, “A clockwork RNN,” CoRR, vol. abs/1402.3511, 2014.
