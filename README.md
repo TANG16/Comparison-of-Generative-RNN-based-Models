@@ -8,8 +8,10 @@ In the comparison:
 - Initial values for all the weights were drawn from a Gaussian distribution with zero mean and standard deviation of 0.1.
 - All networks were trained using Stochastic Gradient Descent (SGD) with Nesterov-style momentum
 
-# Demo
-Click [here](https://www.youtube.com/watch?v=R44aZCndydg&feature=youtu.be) for a demo.
+# Results
+![Deneme](Demo/ml.gif)
+
+If you cannot open the videos, click [here](https://www.youtube.com/watch?v=R44aZCndydg&feature=youtu.be).
 
 # References
 - J. Koutnnik, K. Greff, F. J. Gomez, and J. Schmidhuber, “A clockwork RNN,” CoRR, vol. abs/1402.3511, 2014.
