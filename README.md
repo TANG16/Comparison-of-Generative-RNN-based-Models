@@ -7,7 +7,7 @@ In the comparison:
 - All the networks include approximately 8000 parameters.
 - Initial values for all the weights were drawn from a Gaussian distribution with zero mean and standard deviation of 0.1.
 - All networks were trained using Stochastic Gradient Descent (SGD) with Nesterov-style momentum
-- For the target value, I sample piece of music, taken from [here](https://www.youtube.com/watch?v=KLL3DKZAzig), at 44.1 Hz for 7 ms.
+- For the target value, a piece of music, taken from [here](https://www.youtube.com/watch?v=KLL3DKZAzig), is sampled at 44.1 Hz for 7 ms.
 
 # Results
 For the demo, click [here](https://youtu.be/R44aZCndydg).
